@@ -1,0 +1,601 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ZOMB",
+				"ZOMBIES"
+			],
+			[
+				"sc",
+				"scoreDiv"
+			],
+			[
+				"Sc",
+				"SCORE"
+			],
+			[
+				"on",
+				"onDie"
+			],
+			[
+				"scr",
+				"script\tTag"
+			],
+			[
+				"laser",
+				"laserY"
+			],
+			[
+				"las",
+				"laserX"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"Gam",
+				"GAME_HEIGHT"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"settime",
+				"setTimeout( handler: any, timeout?: long, arguments...: any ): long\tWindow"
+			],
+			[
+				"func",
+				"function without name"
+			],
+			[
+				"ti",
+				"timeInit"
+			],
+			[
+				"console",
+				"console.log()"
+			],
+			[
+				"setti",
+				"setTimeout( handler: any, timeout?: long, arguments...: any ): long\tWindow"
+			],
+			[
+				"app",
+				"appendChild( node: Node ): Node\tNode"
+			],
+			[
+				"createE",
+				"createElement( localName: DOMString ): Element\tDocument"
+			],
+			[
+				"ev",
+				"evt"
+			],
+			[
+				"new",
+				"newh"
+			],
+			[
+				"functio",
+				"function with name"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"score",
+				"score"
+			],
+			[
+				"scor",
+				"scoreElement"
+			],
+			[
+				"spli",
+				"splice( start: int, deleteCount: int, items...: any ): Array\tArray"
+			],
+			[
+				"ene",
+				"enemies"
+			],
+			[
+				"inter",
+				"intersects"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"add",
+				"addEnemy"
+			],
+			[
+				"lasr",
+				"laser"
+			],
+			[
+				"max",
+				"maxHeight"
+			],
+			[
+				"spa",
+				"space"
+			],
+			[
+				"set",
+				"setPosition"
+			],
+			[
+				"ma",
+				"maxHeight"
+			],
+			[
+				"min",
+				"minHeight"
+			],
+			[
+				"s",
+				"sprite"
+			],
+			[
+				"sp",
+				"sprite"
+			],
+			[
+				"hande",
+				"handleControls"
+			],
+			[
+				"obj",
+				"object\t<object>"
+			],
+			[
+				"sy",
+				"style\tTag"
+			],
+			[
+				"html",
+				"html5\tSimple HTML5 Boilerplate"
+			],
+			[
+				"link",
+				"link\tTag"
+			],
+			[
+				"fo",
+				"forin\tfor … in … done"
+			],
+			[
+				"emi",
+				"email"
+			],
+			[
+				"keys",
+				"Object.keys( o: Object ): string[]\tObject"
+			],
+			[
+				"object",
+				"Object.keys( o: Object ): string[]\tObject"
+			],
+			[
+				"de",
+				"deleteContact"
+			],
+			[
+				"conta",
+				"contact1"
+			],
+			[
+				"Conta",
+				"ContactList"
+			],
+			[
+				"pr",
+				"prototype"
+			],
+			[
+				"C",
+				"ContactList"
+			],
+			[
+				"cont",
+				"contact1"
+			],
+			[
+				"scri",
+				"script\tHTML - Script"
+			],
+			[
+				"script",
+				"script\t<script>"
+			],
+			[
+				"cla",
+				"calcArr"
+			],
+			[
+				"cal",
+				"calcArr"
+			],
+			[
+				"ca",
+				"calcArr"
+			],
+			[
+				"pars",
+				"parseCalculationString"
+			],
+			[
+				"calc",
+				"calculate"
+			],
+			[
+				"alert",
+				"alert( message?: DOMString ): void\tWindow"
+			],
+			[
+				"aler",
+				"alert( message?: DOMString ): void\tWindow"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"sty",
+				"style\t<style>"
+			],
+			[
+				"dis",
+				"display = 'none'\tStyle CSS"
+			],
+			[
+				"getele",
+				"getElementsByTagName( localName: DOMString ): HTMLCollection\tElement"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"vis",
+				"visibility = 'hidden'\tStyle CSS"
+			],
+			[
+				"ons",
+				"onsubmit\tAttr"
+			],
+			[
+				"do",
+				"document"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"els",
+				"else"
+			],
+			[
+				"nexts",
+				"nextElementSibling: Element\tElement"
+			],
+			[
+				"ne",
+				"nextSibling"
+			],
+			[
+				"text",
+				"textContent: DOMString\tNode"
+			],
+			[
+				"repla",
+				"replacedText"
+			],
+			[
+				"relac",
+				"replacedText"
+			],
+			[
+				"con",
+				"console.log()"
+			],
+			[
+				"conf",
+				"confirm( message?: DOMString ): boolean\tWindow"
+			],
+			[
+				"l",
+				"log\tJS - Log to console"
+			],
+			[
+				"cons",
+				"console.log()"
+			],
+			[
+				"ht",
+				"html5\tSimple HTML5 Boilerplate"
+			],
+			[
+				"wr",
+				"write( text...: DOMString ): void\tDocument"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 132.0,
+		"last_filter": "Package Control: in",
+		"selected_items":
+		[
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Install Package Control"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 213.0,
+		"history":
+		[
+			"console.log(1);",
+			"nodejs",
+			" npm install --save-dev eslint",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib2,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation')",
+			" npm install --save-dev eslint"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/terminator/PenguinWar/assets/js/laser.js",
+		"/home/terminator/PenguinWar/assets/js/components.js",
+		"/home/terminator/PenguinWar/assets/js/enemy.js",
+		"/home/terminator/PenguinWar/index.html",
+		"/home/terminator/PenguinWar/assets/js/zombies.js",
+		"/home/terminator/PenguinWar/assets/js/hero.js",
+		"/home/terminator/PenguinWar/assets/css/style.css",
+		"/home/terminator/PenguinWar/assets/css/menu.css",
+		"/home/terminator/Downloads/game/laser.js",
+		"/home/terminator/Downloads/game/game7-multilaser.html",
+		"/home/terminator/Downloads/game/main.js",
+		"/home/terminator/PenguinWar/assets/css/space-backgound.css",
+		"/home/terminator/PenguinWar/assets/js/index.html",
+		"/home/terminator/Downloads/game/index.html",
+		"/home/terminator/Downloads/game/main.css",
+		"/home/terminator/testing/function.awk",
+		"/media/terminator/Data/iti/Bash Shell Scripts/Bash Shell Scripts/lab4/mymail.sh",
+		"/media/terminator/Data/iti/JavaScript/Day5/lab5/contact.js",
+		"/media/terminator/Data/iti/Bash Shell Scripts/Bash Shell Scripts/lab4/7.sh",
+		"/media/terminator/Data/iti/JavaScript/Day5/lab5/index.html",
+		"/media/terminator/Data/iti/JavaScript/Day5/index.html",
+		"/media/terminator/Data/iti/JavaScript/Day3/Lab3 - template/Lab3 - template/js/calc.js",
+		"/media/terminator/Data/iti/JavaScript/Day3/Lab3 - template/Lab3 - template/js/js.js",
+		"/media/terminator/Data/iti/JavaScript/Day3/Lab3 - template/Lab3 - template/calc.html",
+		"/media/terminator/Data/iti/JavaScript/Day3/Lab3 - template/Lab3 - template/js/gdfgdf.js",
+		"/media/terminator/Data/iti/JavaScript/Day3/Lab3 - template/Lab3 - template/asg.html",
+		"/etc/apache2/apache2.conf",
+		"/etc/php/5.6/apache2/php.ini",
+		"/home/terminator/etc/php/5.6",
+		"/media/terminator/Data/iti/JavaScript/Day3/Lab3 - template/Lab3 - template/slide-show.html",
+		"/media/terminator/Data/iti/JavaScript/Day3/Lab3 - template/Lab3 - template/js/slide-show.js",
+		"/media/terminator/Data/iti/JavaScript/Day3/Lab3 - template/Lab3 - template/js/ready-go.js",
+		"/media/terminator/Data/iti/JavaScript/Day3/Lab3 - template/Lab3 - template/js/form.js",
+		"/media/terminator/Data/iti/JavaScript/Day3/Lab3 - template/Lab3 - template/css/style.css",
+		"/media/terminator/Data/iti/JavaScript/Day3/Lab3 - template/Lab3 - template/form.html",
+		"/media/terminator/Data/iti/JavaScript/Day3/Lab3 - template/Lab3 - template/index.html",
+		"/media/terminator/Data/iti/JavaScript/Day3/Lab3 - template/Lab3 - template/ready-go.html",
+		"/media/terminator/Data/iti/JavaScript/Day2/template/js/find-my-family-game.js",
+		"/media/terminator/Data/iti/JavaScript/Day2/template/js/make-me-live-game.js",
+		"/media/terminator/Data/iti/JavaScript/Day2/template/find-my-family.html",
+		"/media/terminator/Data/iti/JavaScript/Day2/template/make-me-live.html",
+		"/media/terminator/Data/iti/JavaScript/Day2/template/bounses/bouns.html",
+		"/media/terminator/Data/iti/JavaScript/Day2/template/bounses/lab1-b2.js",
+		"/media/terminator/Data/iti/JavaScript/Day2/template/bounses/lab1-b1.js",
+		"/home/terminator/.config/sublime-text-3/Packages/User/Node.sublime-build",
+		"/media/terminator/Data/iti/JavaScript/Day2/template/js/make-me-stylish-game.js",
+		"/media/terminator/Data/iti/JavaScript/Day2/template/js/ready-steady-go-game.js",
+		"/media/terminator/Data/iti/JavaScript/Day2/template/jsdoc-settings.json",
+		"/home/terminator/.config/sublime-text-3/Packages/JavaScript Completions/javascript_completions/Default (Linux)_disabled.sublime-keymap",
+		"/home/terminator/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/terminator/.config/sublime-text-3/Packages/JavaScript Completions/javascript_completions/JavaScript-Completions.sublime-settings",
+		"/home/terminator/.config/sublime-text-3/Packages/User/helper.sublime-settings",
+		"/home/terminator/.config/sublime-text-3/Packages/JavaScript Completions/helper/Default (Linux).sublime-keymap",
+		"/home/terminator/.config/sublime-text-3/Packages/User/JavaScript-Completions.sublime-settings",
+		"/etc/apt/sourcs.list",
+		"/etc/apt/sources.list"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"dada",
+			"SCORE",
+			"scoreDiv",
+			"LAser",
+			"game",
+			"pare",
+			"LEVEL_SPEED_Enemy_Move",
+			"images",
+			"s",
+			"elementId",
+			"setPosition",
+			"laser",
+			"sprite.h",
+			"hero",
+			"enemies",
+			"createSprite",
+			"hero",
+			"setPosition",
+			"lasers",
+			"cons",
+			"\n\t",
+			"nodejs"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/Node.sublime-build",
+	"project": "LICENSE.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 240.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
