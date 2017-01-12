@@ -2,7 +2,7 @@
 #create user menu function
 
 readonly DBPATH="databases";
-
+declare -a DBARR ;
 
 
 ##########################################################################################
@@ -24,7 +24,6 @@ function createDB {
 ########################################################################################
 # List Databases in databases Dir  is called in userInterface function
 function listDB {
-	declare -a DBARR ;
 	i=1;
 	for DB in `ls $DBPATH`
 	do
@@ -46,19 +45,23 @@ function listDB {
 		echo $i") "$DB;
 		let i=i+1;
 	done
-	echo "${DBARR[@]}";
+	#echo "${DBARR[@]}";
 
 	if [[ ! "$1" ]]; then
 		return 0;
 	fi
 
 	if [[ "$1"=="show" ]]; then
+		echo "done";
 		userInterface;
 	fi
 }
 #######################################################################################
 # Drop Database From Databases list
 function dropDB {
+		
+		echo "${DBARR[@]}";
+
 	read -p "Choose Database You Want To Drop It From The Above Databases List : " choise ;
 	containsElement ${DBARR[$choise]} "${DBARR[@]}";
 	if [[  "$?" == "1" ]]; then
@@ -66,7 +69,9 @@ function dropDB {
 		case $response in 
 			[yY][eE][sS]|[yY]) 
 	        	rm -r $DBPATH/${DBARR[$choise]};
+	        	DBARR[$choise]="";
 	        	echo "${DBARR[@]}";
+
 	    	;;
 
 	    	*)
@@ -145,7 +150,7 @@ function  userInterface {
 				break ;
 				;;
 			"Quit")
-				break ;
+				return ;
 				;;
 		esac
 	done

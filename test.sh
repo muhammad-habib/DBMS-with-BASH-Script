@@ -8,3 +8,7 @@ for i in "${!my_array[@]}"; do
        echo "${i}";
    fi
 done
+
+
+read -p "asd  " as asd asd ;
+echo $REPLY $*;
